@@ -1,4 +1,4 @@
-# semgrep-gosu;
+# semgrep-gosu
 
 Generated gosu parser code for semgrep.
 
