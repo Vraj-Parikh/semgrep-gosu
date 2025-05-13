@@ -1,5 +1,5 @@
-# semgrep-&lt;gosu&gt;
+# semgrep-gosu;
 
-Generated &lt;gosu&gt; parser code for semgrep.
+Generated gosu parser code for semgrep.
 
 [Instructions for updating this repo](https://github.com/returntocorp/ocaml-tree-sitter-semgrep/blob/main/doc/release.md)
