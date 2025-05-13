@@ -1,0 +1,30 @@
+File: semgrep-grammars/src/tree-sitter-gosu/LICENSE
+Git repo name: tree-sitter-gosu
+Latest commit in repo: 4dbfe92eb022fd8bc05fa79b63057ac2423f8a1f
+Last change in file:
+  commit 4dbfe92eb022fd8bc05fa79b63057ac2423f8a1f
+  Author: Vraj-Parikh <vrajparikh09062002@gmail.com>
+  Date:   Tue May 13 11:36:23 2025 +0530
+  
+      add licence file
+---
+File: semgrep-grammars/src/tree-sitter-gosu/grammar.js
+Git repo name: tree-sitter-gosu
+Latest commit in repo: 4dbfe92eb022fd8bc05fa79b63057ac2423f8a1f
+Last change in file:
+  commit 6a6960f5cab56f9b07e2e9acc90ccd03f48a5bfd
+  Author: Vraj-Parikh <vrajparikh09062002@gmail.com>
+  Date:   Mon May 12 12:34:50 2025 +0530
+  
+      Modify Grammar
+---
+File: semgrep-grammars/src/semgrep-gosu/grammar.js
+Git repo name: ocaml-tree-sitter-semgrep
+Latest commit in repo: 8d37dd61e15c60c75af145a19c06d40a463e051b
+Last change in file:
+  commit 96af9e11003cf2229c6256a2f3901c6abbe4ad04
+  Author: Vraj-Parikh <vrajparikh09062002@gmail.com>
+  Date:   Mon May 12 15:13:48 2025 +0530
+  
+      Modify Grammar
+---
